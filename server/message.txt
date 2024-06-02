@@ -1,0 +1,6 @@
+{"name": "sensor1""temperature": 128.10, "humidity": 2.50},
+,
+{"name": "sensor1""temperature": 128.60, "humidity": 1.90},
+{"name": "sensor1""temperature": 0.60, "humidity": 2.60},
+{"name": "sensor1""temperature": 1.10, "humidity": 133.70},
+{"name": "sensor1""temperature": 1.50, "humidity": 134.10}
