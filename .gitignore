@@ -1,0 +1,3 @@
+server/node_modules/
+esp32/src/config.h
+server/data.db.db

@@ -3,4 +3,9 @@
 {"name": "sensor1""temperature": 128.60, "humidity": 1.90},
 {"name": "sensor1""temperature": 0.60, "humidity": 2.60},
 {"name": "sensor1""temperature": 1.10, "humidity": 133.70},
-{"name": "sensor1""temperature": 1.50, "humidity": 134.10}
+{"name": "sensor1""temperature": 1.50, "humidity": 134.10},
+{
+    "test":"test"
+},
+{"name": "sensor1""temperature": 23.60, "humidity": 47.00},
+{"name": "sensor1""temperature": 23.50, "humidity": 47.00}
